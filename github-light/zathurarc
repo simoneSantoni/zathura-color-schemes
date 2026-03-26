@@ -2,7 +2,7 @@
 # Based on projekt0n/github-nvim-theme
 
 # Font
-set font                        "UbuntuSans Nerd Font 14"
+set font                        "UbuntuSans Nerd Font 13"
 
 # Default colors
 set default-bg                  "#ffffff"
