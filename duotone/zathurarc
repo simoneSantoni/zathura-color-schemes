@@ -1,0 +1,53 @@
+# Base2Tone Field Dark (duotone) theme
+# Based on Base2Tone Field Dark by Bram de Haan
+
+# Font
+set font                        "UbuntuSans Nerd Font 14"
+
+# Default colors
+set default-bg                  "#18201e"
+set default-fg                  "#8ea4a0"
+
+# Statusbar
+set statusbar-bg                "#242e2c"
+set statusbar-fg                "#8ea4a0"
+
+# Inputbar
+set inputbar-bg                 "#242e2c"
+set inputbar-fg                 "#8ea4a0"
+
+# Notification
+set notification-bg             "#242e2c"
+set notification-fg             "#8ea4a0"
+set notification-error-bg       "#242e2c"
+set notification-error-fg       "#3be381"
+set notification-warning-bg     "#242e2c"
+set notification-warning-fg     "#55ec94"
+
+# Highlighting
+set highlight-color             "#00943e"
+set highlight-active-color      "#0fbda0"
+
+# Completion
+set completion-bg               "#18201e"
+set completion-fg               "#8ea4a0"
+set completion-highlight-bg     "#0fbda0"
+set completion-highlight-fg     "#18201e"
+set completion-group-bg         "#242e2c"
+set completion-group-fg         "#40ddc3"
+
+# Index mode
+set index-bg                    "#18201e"
+set index-fg                    "#8ea4a0"
+set index-active-bg             "#0fbda0"
+set index-active-fg             "#18201e"
+
+# Recolor (for inverting PDF colors)
+set recolor                     "false"
+set recolor-lightcolor          "#18201e"
+set recolor-darkcolor           "#8ea4a0"
+set recolor-keephue             "false"
+
+# Render
+set render-loading-bg           "#18201e"
+set render-loading-fg           "#8ea4a0"

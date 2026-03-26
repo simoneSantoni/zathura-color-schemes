@@ -1,0 +1,54 @@
+# Neonwolf theme
+# Based on Base2Tone Meadow Dark by Bram de Haan
+# Duotone: slate blue + light lime green
+
+# Font
+set font                        "UbuntuSans Nerd Font 14"
+
+# Default colors
+set default-bg                  "#192834"
+set default-fg                  "#7b9eb7"
+
+# Statusbar
+set statusbar-bg                "#223644"
+set statusbar-fg                "#7b9eb7"
+
+# Inputbar
+set inputbar-bg                 "#223644"
+set inputbar-fg                 "#7b9eb7"
+
+# Notification
+set notification-bg             "#223644"
+set notification-fg             "#7b9eb7"
+set notification-error-bg       "#223644"
+set notification-error-fg       "#8cdd3c"
+set notification-warning-bg     "#223644"
+set notification-warning-fg     "#a6f655"
+
+# Highlighting
+set highlight-color             "#335166"
+set highlight-active-color      "#47adf5"
+
+# Completion
+set completion-bg               "#192834"
+set completion-fg               "#7b9eb7"
+set completion-highlight-bg     "#47adf5"
+set completion-highlight-fg     "#192834"
+set completion-group-bg         "#223644"
+set completion-group-fg         "#80bf40"
+
+# Index mode
+set index-bg                    "#192834"
+set index-fg                    "#7b9eb7"
+set index-active-bg             "#47adf5"
+set index-active-fg             "#192834"
+
+# Recolor (for inverting PDF colors)
+set recolor                     "false"
+set recolor-lightcolor          "#192834"
+set recolor-darkcolor           "#7b9eb7"
+set recolor-keephue             "false"
+
+# Render
+set render-loading-bg           "#192834"
+set render-loading-fg           "#7b9eb7"

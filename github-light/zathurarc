@@ -1,0 +1,53 @@
+# GitHub Light theme
+# Based on projekt0n/github-nvim-theme
+
+# Font
+set font                        "UbuntuSans Nerd Font 14"
+
+# Default colors
+set default-bg                  "#ffffff"
+set default-fg                  "#1f2328"
+
+# Statusbar
+set statusbar-bg                "#f6f8fa"
+set statusbar-fg                "#1f2328"
+
+# Inputbar
+set inputbar-bg                 "#f6f8fa"
+set inputbar-fg                 "#1f2328"
+
+# Notification
+set notification-bg             "#f6f8fa"
+set notification-fg             "#1f2328"
+set notification-error-bg       "#f6f8fa"
+set notification-error-fg       "#cf222e"
+set notification-warning-bg     "#f6f8fa"
+set notification-warning-fg     "#9a6700"
+
+# Highlighting
+set highlight-color             "#add6ff"
+set highlight-active-color      "#0969da"
+
+# Completion
+set completion-bg               "#ffffff"
+set completion-fg               "#1f2328"
+set completion-highlight-bg     "#0969da"
+set completion-highlight-fg     "#ffffff"
+set completion-group-bg         "#f6f8fa"
+set completion-group-fg         "#1b7c83"
+
+# Index mode
+set index-bg                    "#ffffff"
+set index-fg                    "#1f2328"
+set index-active-bg             "#0969da"
+set index-active-fg             "#ffffff"
+
+# Recolor (for inverting PDF colors)
+set recolor                     "false"
+set recolor-lightcolor          "#ffffff"
+set recolor-darkcolor           "#1f2328"
+set recolor-keephue             "false"
+
+# Render
+set render-loading-bg           "#ffffff"
+set render-loading-fg           "#1f2328"
